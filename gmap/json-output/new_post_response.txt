@@ -1,0 +1,1 @@
+{"status":"OK","place_id":"89e97072278b6aa0f04d0f77cfadc5a7","scope":"APP","reference":"4ca13c4f4a7c07d575f7a8adda4174f64ca13c4f4a7c07d575f7a8adda4174f6","id":"4ca13c4f4a7c07d575f7a8adda4174f6"}
